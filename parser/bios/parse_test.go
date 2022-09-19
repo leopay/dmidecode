@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yumaojun03/dmidecode/parser/bios"
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/leopay/dmidecode/parser/bios"
+	"github.com/leopay/dmidecode/smbios"
 )
 
 var (

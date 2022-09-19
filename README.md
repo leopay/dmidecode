@@ -1,9 +1,9 @@
 # dmidecode
-![Build and Test](https://github.com/yumaojun03/dmidecode/workflows/Build%20and%20Test/badge.svg)
-[![codecov](https://codecov.io/gh/yumaojun03/dmidecode/branch/master/graph/badge.svg)](https://codecov.io/gh/yumaojun03/dmidecode)
-[![Go Report Card](https://goreportcard.com/badge/github.com/yumaojun03/dmidecode)](https://goreportcard.com/report/github.com/yumaojun03/dmidecode)
-[![Release](https://img.shields.io/github/release/yumaojun03/dmidecode.svg?style=flat-square)](https://github.com/yumaojun03/dmidecode/releases)
-[![MIT License](https://img.shields.io/github/license/yumaojun03/dmidecode.svg)](https://github.com/yumaojun03/dmidecode/blob/master/LICENSE)
+![Build and Test](https://github.com/leopay/dmidecode/workflows/Build%20and%20Test/badge.svg)
+[![codecov](https://codecov.io/gh/leopay/dmidecode/branch/master/graph/badge.svg)](https://codecov.io/gh/leopay/dmidecode)
+[![Go Report Card](https://goreportcard.com/badge/github.com/leopay/dmidecode)](https://goreportcard.com/report/github.com/leopay/dmidecode)
+[![Release](https://img.shields.io/github/release/leopay/dmidecode.svg?style=flat-square)](https://github.com/leopay/dmidecode/releases)
+[![MIT License](https://img.shields.io/github/license/leopay/dmidecode.svg)](https://github.com/leopay/dmidecode/blob/master/LICENSE)
 
 纯Golang实现的dmidecode, 零依赖, 支持Linux, Unix, Windows
 
@@ -14,7 +14,7 @@
 ## 安装方式
 
 ```
-$ go get "github.com/yumaojun03/dmidecode"
+$ go get "github.com/leopay/dmidecode"
 ```
 
 ## 使用样例
@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/yumaojun03/dmidecode"
+	"github.com/leopay/dmidecode"
 )
 
 func checkError(err error) {

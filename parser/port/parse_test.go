@@ -3,8 +3,8 @@ package port_test
 import (
 	"testing"
 
-	"github.com/yumaojun03/dmidecode/parser/port"
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/leopay/dmidecode/parser/port"
+	"github.com/leopay/dmidecode/smbios"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -3,7 +3,7 @@ package bios
 import (
 	"fmt"
 
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/leopay/dmidecode/smbios"
 )
 
 // Information bios信息
